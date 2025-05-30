@@ -37,8 +37,8 @@
 
 | Layer         | Technology                                  |
 | ------------- | ------------------------------------------- |
-| Frontend      | React.js, TailwindCSS, Heroicons            |
-| Backend       | Node.js, Express.js                         |
+| Frontend      | Next.js, TailwindCSS, Heroicons            |
+| Backend       | Node.js, Next.js                         |
 | Database      | MongoDB (Mongoose ODM)                      |
 | Real-Time     | WebSocket (Socket.IO)                       |
 | KYC Storage   | Cloud Storage (Encrypted file uploads)      |
@@ -47,7 +47,8 @@
 
 ---
 
-## 📸 Screenshots
+## 📸 Demo
+https://drive.google.com/file/d/1RuOBobKuY68s2YfjyZi3OxOlNREjOHCG/view?usp=sharing
 
 | Login & KYC Upload | Risk Dashboard | Wallet Trace View |
 |--------------------|----------------|--------------------|
@@ -64,9 +65,5 @@ git clone https://github.com/yourusername/cryptify.git
 cd cryptify
 cd server
 npm install
-cp .env.example .env
-# Add your MongoDB URI, JWT_SECRET, etc.
-npm run dev
-cd client
-npm install
-npm run dev
+
+npm rundev
