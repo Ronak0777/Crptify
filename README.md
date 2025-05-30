@@ -48,7 +48,7 @@
 ---
 
 ## 📸 Demo
-https://drive.google.com/file/d/1vu5iNRwi4MvaM20Ci3wOA18d66duioOo/view?usp=sharing
+https://drive.google.com/file/d/1MYgVWnMer_hVBjeexlytTlieW9be8mXR/view?usp=sharing
 | Login & KYC Upload | Risk Dashboard | Wallet Trace View |
 |--------------------|----------------|--------------------|
 | ![Login Popup](./screens/login.png) | ![Dashboard](./screens/dashboard.png) | ![Wallet Graph](./screens/graph.png) |
